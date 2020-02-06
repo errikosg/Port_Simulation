@@ -3,7 +3,7 @@
 
 This project (written in C) focuses on communication between **processes** using **POSIX semaphores** and **shared memory** while simulating a port with vessels. Vessels have always a set size(small/medium/large) and the port has limited amount of positions from each category. A vessel may only occupy same or larger position inside the port.<br>
 
-Port:
+Port:<br>
 ![homepage](https://github.com/errikosg/Port_Simulation/blob/master/img/port.png)
 <br>
 
